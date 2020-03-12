@@ -1,0 +1,7 @@
+Difference de versions  SHA-3:
+L'algorithme  KECCAK-256(SHA-3) est utilisé dans l'ethereum dans sa version originale.
+il est diffirent de l'algorithme spécifié par le NIST.
+(le NIST a spécifié la manière de compléter le message lorsque la longueur du message n'est pas égale à la taille requise 
+en entrée par la fonction éponge)
+et donc Les résultats sont donc différents.
+

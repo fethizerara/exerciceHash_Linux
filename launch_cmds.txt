@@ -1,0 +1,4 @@
+
+make COMPONENTS_DIRNAMES=NaiveHashComponent (pour utiliser la fonction de hash naive)
+make COMPONENTS_DIRNAMES=sha256 (pour utiliser la fonction de hash sha256)
+make COMPONENTS_DIRNAMES=sha3 (pour utiliser la fonction de hash sha3)
